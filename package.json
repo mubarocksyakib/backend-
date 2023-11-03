@@ -1,0 +1,21 @@
+{
+  "name": "backend-syakib",
+  "version": "1.0.0",
+  "description": "syakib",
+  "main": "index.js",
+  "scripts": {
+    "test": "syakib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "syakib"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "syakib",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
